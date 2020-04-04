@@ -1,0 +1,12 @@
+---
+title:
+- type: main
+  text: Jake's Recipe Book
+creator:
+- role: author
+  text: Jake Barber
+rights: MIT License
+lang: en-AU
+mainfont: DejaVu Sans
+tags: [jake, cooking, recipe-book]
+---

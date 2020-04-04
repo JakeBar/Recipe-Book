@@ -1,0 +1,23 @@
+version: 2
+jobs:
+  build:
+    docker:
+      - image: pandoc/latex
+
+    steps:
+      - checkout
+
+      - run:
+          name: Setup dependencies
+          command:
+            apk add make texlive-xetex
+
+      - run:
+          name: Export markdown to pdf
+          command:
+            ./generate_pdf.sh
+
+      - run:
+          name: Check if pdf exists
+          command:
+            test -s recipe_book.pdf
