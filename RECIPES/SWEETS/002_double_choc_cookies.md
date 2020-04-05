@@ -14,7 +14,7 @@ This cookies are super doughy. A recipe from [Julia Ostro](https://www.instagram
 - Pinch of salt
 - 50g dark chocolate, roughly chopped
 
-## Steps:
+## Steps
 1. Mix dry ingredients together (self raising flour, cocoa powder, big pinch of salt). Make sure to sift cocoa powder.
 2. In a seperate bowl mix brown sugar, caster sugar, eggs. Whisk thoroughly. Then add vanilla extract, melted 55% dark chocolate & melted unsalted butter.
 3. Add 50 grams roughly chopped dark chocolate. Mix with wooden spoon

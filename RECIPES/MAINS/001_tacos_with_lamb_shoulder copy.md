@@ -22,7 +22,7 @@ Note: Do no cook this for your vegetarian friends such as Ajaya Haikerwal 🤦
 ### Extras
 - Red Wine from [Blackhearts & Sparrows](https://www.blackheartsandsparrows.com.au/)
 
-## Steps:
+## Steps
 
 ### Lamb
 1. Preheat the oven to 150°C (130°C fan-forced).
