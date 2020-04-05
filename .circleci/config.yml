@@ -13,9 +13,19 @@ jobs:
             apk add make texlive-xetex
 
       - run:
-          name: Export markdown to pdf
+          name: Export recipes to consolidated markdown
           command:
-            ./generate_pdf.sh
+            ./generate_book.sh markdown
+
+      - run:
+          name: Export recipes to consolidated pdf
+          command:
+            ./generate_book.sh pdf
+
+      - run:
+          name: Check if markdown exists
+          command:
+            test -s recipe_book.md
 
       - run:
           name: Check if pdf exists

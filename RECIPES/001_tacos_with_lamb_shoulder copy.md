@@ -1,9 +1,7 @@
-<div style="page-break-after: always;"></div>
-
 # Tacos with Lamb Shoulder
 
 This recipe is super easy to get going with a bit of prep. Stolen from Sachi Eapen
-Note: Do no cook this for your vegetarian friends such as Ajaya Haikerwal
+Note: Do no cook this for your vegetarian friends such as Ajaya Haikerwal 🤦
 
 ## Ingredients
 
