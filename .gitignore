@@ -2,4 +2,5 @@ RECIPES_WITH_TOC.md
 RAW_BOOK.md
 *.pdf
 .DS_Store
-/recipe_book.md
+recipe_book.md
+recipe_book.pdf
