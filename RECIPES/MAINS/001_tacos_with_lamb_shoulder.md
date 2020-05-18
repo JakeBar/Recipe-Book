@@ -19,8 +19,12 @@ Note: Do no cook this for your vegetarian friends such as Ajaya Haikerwal 🤦
 - Pepper
 - Apple Cider Vinegar
 
+### Tortillas
+- Locally sourced corn tortillas
+
 ### Extras
 - Red Wine from [Blackhearts & Sparrows](https://www.blackheartsandsparrows.com.au/)
+- Salsa/Sauce, Pico de gallo
 
 ## Steps
 
