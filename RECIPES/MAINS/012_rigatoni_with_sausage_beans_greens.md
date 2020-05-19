@@ -4,7 +4,7 @@ Fast and spicy 🌶️. Make sure to get good sausages from the butcher. Serves 
 
 ## Ingredients
 
-- 3 tablespoons (or more) salt
+- 2 tablespoons (or more) salt
 - 3 links sweet Italian sausage
 - 1 15-ounce can cannellini (white kidney) beans
 - 1 bunch of Tuscan kale, rinsed
