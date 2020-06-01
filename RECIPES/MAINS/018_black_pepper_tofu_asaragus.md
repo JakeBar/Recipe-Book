@@ -1,8 +1,6 @@
-# Korean Dumplings (Mandu)
+# Black Pepper Tofu and Asparagus
 
-Different from your reg Chinese dumpling.
-
-Makes 30 dumplings
+Quick 30 minute dish. Serves 2.
 
 ## Ingredients
 
