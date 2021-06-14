@@ -6,7 +6,7 @@ MARKDOWN="markdown"
 
 # Get the recipes with a table of contents
 echo "Gathering recipes... 🍳"
-pandoc -s -f gfm -t gfm -o RECIPES_WITH_TOC.md --toc --toc-depth=1 RECIPES/MAINS/*.md RECIPES/MEATS/*.md RECIPES/SWEETS/*.md
+pandoc -s -f gfm -t gfm -o RECIPES_WITH_TOC.md --toc --toc-depth=1 RECIPES/MAINS/*.md RECIPES/SIDES/*.md RECIPES/MEATS/*.md RECIPES/SWEETS/*.md
 
 # Prefix everything with an introduction
 echo "Adding an introduction... ✍️"

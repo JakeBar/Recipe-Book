@@ -1,4 +1,4 @@
-# Fish Tacos
+# Breaded Fish Tacos
 
 Best fish tacos I've made at home so far. Yields 8-10 servings.
 
